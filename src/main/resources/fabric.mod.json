@@ -8,7 +8,9 @@
 		"zayphi"
 	],
 	"contact": {
-		"sources": "https://github.com/zayphi/uncraftables"
+		"homepage": "https://modrinth.com/mod/uncraftables",
+		"sources": "https://github.com/zayphi/uncraftables",
+		"issues": "https://github.com/zayphi/uncraftables/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/uncraftables/icon.png",

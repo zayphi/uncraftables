@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:nether_wart_block"
+    }
+  },
+  "pattern": [
+    "A"
+  ],
+  "result": {
+    "item": "minecraft:nether_wart",
+    "count": 9
+  }
+}

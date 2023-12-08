@@ -3,10 +3,10 @@
   "category": "equipment",
   "key": {
     "A": {
-      "item": "minecraft:stick"
+      "item": "minecraft:prismarine_shard"
     },
     "B": {
-      "item": "minecraft:prismarine_shard"
+      "item": "minecraft:quartz"
     }
   },
   "pattern": [

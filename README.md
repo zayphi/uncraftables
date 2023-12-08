@@ -39,7 +39,7 @@ The latest version implements the following recipes:
 | Red Mushroom Block | <img alt='red-mushroom-block-recipe' height='200' src='https://files.catbox.moe/nf61aw.png'> |
 | Saddle | <img alt='saddle-recipe' height='200' src='https://files.catbox.moe/zo8wah.png'> |
 | Totem of Undying | <img alt='totem-of-undying-recipe' height='200' src='https://files.catbox.moe/s0n9jd.png'> |
-| Trident | <img alt='trident-recipe' height='200' src='https://files.catbox.moe/gy25ms.png'> |
+| Trident | <img alt='trident-recipe' height='200' src='https://files.catbox.moe/szi6n7.png'> |
 
 ## License
 

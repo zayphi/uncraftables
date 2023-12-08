@@ -3,7 +3,7 @@
 	"id": "uncraftables",
 	"version": "${version}",
 	"name": "Uncraftables",
-	"description": "Implements crafting recipes for uncraftable vanilla items, with a focus on fitting with the game's progression and reducing the grinding aspect of the game.",
+	"description": "Implements crafting recipes for non-craftable vanilla items, with a focus on fitting with the game's progression and reducing the grinding aspect of the game.",
 	"authors": [
 		"zayphi"
 	],

@@ -10,7 +10,7 @@
 
 ## About
 
-Implements crafting recipes for uncraftable vanilla items, with a focus on fitting with the game's progression and reducing the grinding aspect of the game.
+Implements crafting recipes for non-craftable vanilla items, with a focus on fitting with the game's progression and reducing the grinding aspect of the game.
 
 ## Installation
 

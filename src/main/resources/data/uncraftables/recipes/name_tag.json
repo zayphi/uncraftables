@@ -1,6 +1,11 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
+  "pattern": [
+    "  B",
+    " A ",
+    "A  "
+  ],
   "key": {
     "A": {
       "item": "minecraft:paper"
@@ -9,12 +14,7 @@
       "item": "minecraft:string"
     }
   },
-  "pattern": [
-    "  B",
-    " A ",
-    "A  "
-  ],
   "result": {
-    "item": "minecraft:name_tag"
+    "id": "minecraft:name_tag"
   }
 }

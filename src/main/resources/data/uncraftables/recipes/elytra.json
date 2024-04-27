@@ -1,6 +1,11 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "A A"
+  ],
   "key": {
     "A": {
       "item": "minecraft:phantom_membrane"
@@ -9,12 +14,7 @@
       "item": "minecraft:dragon_breath"
     }
   },
-  "pattern": [
-    "AAA",
-    "ABA",
-    "A A"
-  ],
   "result": {
-    "item": "minecraft:elytra"
+    "id": "minecraft:elytra"
   }
 }

@@ -1,16 +1,13 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "misc",
-  "key": {
-    "A": {
+  "ingredients": [
+    {
       "item": "minecraft:red_mushroom_block"
     }
-  },
-  "pattern": [
-    "A"
   ],
   "result": {
-    "item": "minecraft:red_mushroom",
+    "id": "minecraft:red_mushroom",
     "count": 4
   }
 }

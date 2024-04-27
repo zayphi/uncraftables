@@ -1,13 +1,13 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "category": "misc",
+  "category": "building",
   "ingredients": [
     {
-      "item": "minecraft:nether_wart_block"
+      "item": "minecraft:blue_ice"
     }
   ],
   "result": {
-    "id": "minecraft:nether_wart",
+    "id": "minecraft:packed_ice",
     "count": 9
   }
 }

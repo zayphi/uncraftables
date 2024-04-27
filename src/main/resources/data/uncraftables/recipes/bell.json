@@ -1,6 +1,11 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "A A"
+  ],
   "key": {
     "A": {
       "item": "minecraft:stone"
@@ -12,12 +17,7 @@
       "item": "minecraft:gold_block"
     }
   },
-  "pattern": [
-    "ABA",
-    "ACA",
-    "A A"
-  ],
   "result": {
-    "item": "minecraft:bell"
+    "id": "minecraft:bell"
   }
 }

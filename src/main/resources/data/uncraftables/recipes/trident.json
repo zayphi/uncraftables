@@ -1,6 +1,11 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
+  "pattern": [
+    " BB",
+    " AB",
+    "A  "
+  ],
   "key": {
     "A": {
       "item": "minecraft:prismarine_shard"
@@ -9,12 +14,7 @@
       "item": "minecraft:quartz"
     }
   },
-  "pattern": [
-    " BB",
-    " AB",
-    "A  "
-  ],
   "result": {
-    "item": "minecraft:trident"
+    "id": "minecraft:trident"
   }
 }

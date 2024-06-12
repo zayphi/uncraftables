@@ -26,7 +26,7 @@ The latest version implements the following recipes:
 | Bell                 | <img alt='bell-recipe' height='200' src='https://files.catbox.moe/2fxuho.png'>                 |
 | Brown Mushroom       | <img alt='brown-mushroom-recipe' height='200' src='https://files.catbox.moe/6s3qkm.png'>       |
 | Brown Mushroom Block | <img alt='brown-mushroom-block-recipe' height='200' src='https://files.catbox.moe/m0s3nc.png'> |
-| Cobweb               | <img alt='cobweb-recipe' height='200' src='https://files.catbox.moe/j2baga.png'>               |
+| Cobweb               | <img alt='cobweb-recipe' height='200' src='https://files.catbox.moe/wljxwq.png'>               |
 | Dead Bush            | <img alt='dead-bush-recipe' height='200' src='https://files.catbox.moe/u8vx0o.png'>            |
 | Diamond Horse Armor  | <img alt='diamond-horse-armor-recipe' height='200' src='https://files.catbox.moe/t9q7m4.png'>  |
 | Elytra               | <img alt='elytra-recipe' height='200' src='https://files.catbox.moe/i8y1lo.png'>               |
@@ -35,6 +35,7 @@ The latest version implements the following recipes:
 | Iron Horse Armor     | <img alt='iron-horse-armor-recipe' height='200' src='https://files.catbox.moe/e1j08c.png'>     |
 | Name Tag             | <img alt='name-tag-recipe' height='200' src='https://files.catbox.moe/12njik.png'>             |
 | Nether Wart          | <img alt='nether-wart-recipe' height='200' src='https://files.catbox.moe/i0oeae.png'>          |
+| Packed Ice           | <img alt='nether-wart-recipe' height='200' src='https://files.catbox.moe/d15jfk.png'>          |
 | Red Mushroom         | <img alt='red-mushroom-recipe' height='200' src='https://files.catbox.moe/67576k.png'>         |
 | Red Mushroom Block   | <img alt='red-mushroom-block-recipe' height='200' src='https://files.catbox.moe/nf61aw.png'>   |
 | Saddle               | <img alt='saddle-recipe' height='200' src='https://files.catbox.moe/zo8wah.png'>               |
